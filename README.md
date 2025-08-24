@@ -1,0 +1,1 @@
+# evisa.e-gov.kg-qr-printStatus2
